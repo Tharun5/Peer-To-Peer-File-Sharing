@@ -1,2 +1,2 @@
 # Peer-To-Peer-File-Sharing
-Peer To Peer File Sharing implemented in Django as Computer Networks Project
+Peer To Peer File Sharing implemented in Python as Computer Networks Project
